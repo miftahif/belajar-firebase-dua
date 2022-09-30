@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "891299979774",
+    "project_id": "belajar-firebase-dua",
+    "storage_bucket": "belajar-firebase-dua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891299979774:android:5692832ba764d3340c60af",
+        "android_client_info": {
+          "package_name": "com.example.belajar_firebase_dua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891299979774-4suh2g4rnflhs8vgt78ofdc27pir8fks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJJeDRlwK2T89lTdZMMw-F14VkSlpt6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891299979774-4suh2g4rnflhs8vgt78ofdc27pir8fks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891299979774-idhf9ncv6fj4tuf985ifag1oivrp5klq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.belajarFirebaseDua"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
